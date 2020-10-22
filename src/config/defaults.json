@@ -1,29 +1,28 @@
 {
   "key": {
-    "hi-hat": "`",
-    "low-hat": "^",
-    "drums": {
-      "high": "~",
-      "medium": "-",
-      "low": "_"
-    },
+    "hi-hat-open": "`",
+    "hi-hat-closed": "^",
+    "high-drum": "~",
+    "medium-drum": "-",
+    "low-drum": "_",
     "base": "@",
     "snare": "#",
     "kick": "&",
     "stick": "!",
     "tenor": "*",
     "cowbell": ":",
-    "signatures": {
-      "time": "4/4",
-      "tempo": "100",
-      "loud": "<",
-      "soft": ">",
-      "fast": "}",
-      "slow": "{"
-    },
-    "defaults": {
-      "time": "4/4",
-      "tempo": "100"
-    }
+    "rest": "."
+  },
+  "signatures": {
+    "time": "4/4",
+    "tempo": "100",
+    "loud": "<",
+    "soft": ">",
+    "fast": "}",
+    "slow": "{"
+  },
+  "defaults": {
+    "time": "4/4",
+    "tempo": "100"
   }
 }
